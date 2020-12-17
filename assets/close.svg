@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group" opacity="0.6">
+    <path id="Path" d="M0,0H24V24H0Z" fill="none"/>
+    <path id="Path-2" data-name="Path" d="M12,0,0,12" transform="translate(6 6)" fill="none" stroke="#202842" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path-3" data-name="Path" d="M0,0,12,12" transform="translate(6 6)" fill="none" stroke="#202842" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

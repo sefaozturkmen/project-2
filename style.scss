@@ -1,0 +1,82 @@
+.box {
+    border-radius: 15px;
+    box-shadow: 0 18px 40px 0 rgba(20, 26, 133, 0.2);
+    background-color: #ffffff;
+    .head-input {
+        padding: 35px 35px 10px 35px;
+        input {
+            border: 0;
+            padding: 10px;
+            width: 100%;
+            margin-left: 5px;
+             ::placeholder {
+                opacity: 0.6;
+            }
+        }
+    }
+    hr {
+        background-color: rgba(15, 15, 43, 0.5);
+    }
+    .body-box {
+        padding: 10px 35px 25px 35px;
+        .trend {
+            h4 {
+                font-family: muli, sans-serif;
+                font-weight: 700;
+                font-style: normal;
+                opacity: 0.5;
+                color: #4b5fa0;
+                text-transform: uppercase;
+                font-size: 13px;
+            }
+            li {
+                border-radius: 5px;
+                border: none;
+                margin: 5px 0px;
+                a {
+                    text-decoration: none;
+                    color: #202842;
+                    display: flex;
+                    img {
+                        margin-right: 5px;
+                    }
+                }
+            }
+            li:nth-child(1) {
+                background-color: #f9effa;
+                margin-right: 8px;
+            }
+            li:nth-child(2) {
+                background-color: #e6f6f2;
+                margin-right: 8px;
+            }
+            li:nth-child(3) {
+                background-color: #f4f3fd;
+            }
+        }
+        .searchList {
+            margin-top: 18px;
+            h4 {
+                font-family: muli, sans-serif;
+                font-weight: 700;
+                font-style: normal;
+                opacity: 0.5;
+                color: #4b5fa0;
+                text-transform: uppercase;
+                font-size: 13px;
+            }
+            li {
+                border: 0;
+                padding: 0;
+                font-family: muli, sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                line-height: 1.25;
+                color: #0f0f2b;
+                img {
+                    margin-right: 5px;
+                }
+            }
+        }
+    }
+}
